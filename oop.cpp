@@ -14,10 +14,10 @@ class Mahasiswa{
         cout << "Nilai: " << nilai << endl;
     }
 
-    
-
 };
 
 int main(){
+    Mahasiswa mhs;
+    
 
 }
